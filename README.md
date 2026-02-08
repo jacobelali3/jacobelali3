@@ -1,1 +1,1 @@
-https://leetcard.jacoblin.cool/jacobelali3
+![LeetCode Stats](https://leetcard.jacoblin.cool/jacobelali3
